@@ -2,3 +2,4 @@ Initial text.
 the first line
 another line
 very specific characters: asdf
+Second person work as direct commit to master

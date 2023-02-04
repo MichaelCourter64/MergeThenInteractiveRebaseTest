@@ -1,4 +1,5 @@
 Initial text.
+First person line modification after merge
 the first line
 another line
 very specific characters: asdf
